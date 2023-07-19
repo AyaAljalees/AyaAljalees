@@ -56,6 +56,6 @@ I am a code Academy graduated student  at [Gaza Sky Geeks](https://github.com/ga
  My GitHub Stats :
 
 <div >
-  <img align="left" width="50%" height="185em" src="https://github-readme-stats.vercel.app/api?username=Nizar7zak&theme=dark&show_icons=true&count_private=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nizar7zak&hide_title=true&langs_count=4" /> </a>
+  <img align="left" width="50%" height="185em" src="https://github-readme-stats.vercel.app/api?username=AyaAljalees&theme=dark&show_icons=true&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaAljalees&hide_title=true&langs_count=4" /> </a>
  </div>
